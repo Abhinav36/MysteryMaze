@@ -1,0 +1,6 @@
+Source Code For Amazon Alexa Skill MysteryMaze
+
+Several features besides moving 
+>> Right,Foward,Left,Right
+>> Hint - Gives you the info how far away you are from your Destination
+>> Help - Gives you the directions in which you can move from your current location
